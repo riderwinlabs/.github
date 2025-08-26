@@ -1,52 +1,33 @@
-## Hi there 👋
-
 # 👋 Welcome to RiderWin Labs
 
-**We connect LATAM with Europe through responsible AI.**
+**Connecting LATAM with Europe through Responsible AI.**
 
-RiderWin Labs OÜ is a digital innovation startup based in Estonia, powered by e-Residency and European legal infrastructure. We help individuals and organizations launch scalable, multilingual and ethical AI workspaces from day one — no local setup required.
-
----
-
-### 💡 What We Do
-
-- 🌐 **AI-Powered Workspaces**  
-  Multitenant SaaS platforms tailored for religious, educational, and social sectors.  
-  → [Explore AI Biblia](https://aibible.io)
-
-- 🛠️ **Tech Infrastructure as a Bridge**  
-  We provide European legal, digital and financial tools to help Latin American partners operate globally.  
-  → [More at riderwin.ee](https://riderwin.ee)
-
-- 🏷️ **Own-Brand Acceleration**  
-  From shared workspace to full autonomy: we help you launch your own brand, domain, and European company.
+RiderWin Labs OÜ is a digital innovation startup legally based in Estonia. Powered by e-Residency and European infrastructure, we help individuals and organizations build AI-driven workspaces with no local setup required.
 
 ---
 
-### 🚀 Projects
+## 💼 What We Offer
 
-- [`rwl-landing`](https://github.com/RiderWinLabs/rwl-landing) — Marketing front for our vision.
-- [`rwl-nextjs`](https://github.com/RiderWinLabs/rwl-nextjs) — Core SaaS platform using Supabase + Stripe.
-- [`rwl-personalpage`](https://github.com/RiderWinLabs/rwl-personalpage) — Founder’s digital hub.
-- [`aibibbia.com`](https://www.aibibbia.com) — Enterprise model for religious communities.
+### 🔹 AI Workspaces as a Service
+Launch-ready, multilingual SaaS platforms for religious, educational, and social sectors.  
+→ [Explore AI Biblia](https://aibible.io)
 
----
+### 🔹 Legal & Tech Bridge to Europe
+Operate globally with a European company, VAT number, and digital tools.  
+→ [Learn more at riderwin.ee](https://riderwin.ee)
 
-### 🧠 Founder
-
-**Hugo Lizarazo Jara**  
-Digital Strategist & AI Consultant  
-→ [About Me](https://www.riderw.in/about)  
-→ [GitHub Profile](https://github.com/HugoLizarazo)
+### 🔹 Brand Acceleration
+From shared workspace to your own brand, domain, and legal entity — powered by RiderWin.
 
 ---
 
-### 📬 Contact
+## 🚀 Projects
 
-- 🌐 Website: [riderwinlabs.com](https://riderwinlabs.com)
-- ✉️ Email: [tech@riderw.in](mailto:tech@riderw.in)
-- 🏢 Based in: Tallinn, Estonia 🇪🇪
+- [`rwl-landing`](https://github.com/riderwinlabs/landing) – Our public marketing front.
+- [`rwl-nextjs`](https://github.com/riderwinlabs/rwl-nextjs) – Core SaaS platform.
+- [`rwl-personalpage`](https://github.com/riderwinlabs/rwl-personalpage) – Founder’s digital hub.
 
 ---
 
-_This organization is part of the global digital infrastructure enabled by [e-Residency](https://e-resident.gov.ee)._
+📫 Reach us at [tech@riderw.in](mailto:tech@riderw.in)  
+🌍 Visit: [riderwin.in](https://riderwin.in)
