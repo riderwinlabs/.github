@@ -25,4 +25,4 @@ We build multilingual SaaS platforms and open tools that connect Latin America a
 
 📍 Registered in Estonia 🇪🇪  
 📧 [tech@riderw.in](mailto:tech@riderw.in)  
-🌐 [riderwinlabs.com](https://riderwinlabs.com)
+🌐 [riderwinlabs](https://riderwin.ee)
