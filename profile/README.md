@@ -23,9 +23,9 @@ From shared workspace to your own brand, domain, and legal entity — powered by
 
 ## 🚀 Projects
 
-- [`RiderWin Labs`](https://github.com/riderwinlabs/landing) – Our public marketing front.
-- [`RWL PlayGround`](https://github.com/riderwinlabs/rwl-nextjs) – Core SaaS platform.
-- [`Personal Page`](https://github.com/riderwinlabs/rwl-personalpage) – Founder’s digital hub.
+- [`RiderWin Labs`](https://riderw.in) – Our public marketing front.
+- [`RWL PlayGround`](https://rwl1.app) – Core SaaS platform.
+- [`Personal Page`](https://hugolizarazo.me) – Founder’s digital hub.
 
 ---
 
